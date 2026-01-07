@@ -86,7 +86,7 @@ All visuals update dynamically based on user selections.
 ---
 
 ## Dashboard Preview
-![Sales & Profit Performance Dashboard]
+![Sales & Profit Performance Dashboard](dashboard/sales_profit_dashboard.png)
 
 ---
 
