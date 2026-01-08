@@ -89,7 +89,3 @@ All visuals update dynamically based on user selections.
 ![Sales & Profit Performance Dashboard](dashboard/sales_profit_dashboard.png)
 
 ---
-
-## Author
-Power  
-Aspiring Data Analyst | Excel, SQL, Power BI, Python
